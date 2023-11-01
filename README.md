@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **solidity**
 
-- 👨‍💻 All of my projects are available at [egidiosalinaro.com](egidiosalinaro.com)
+- 👨‍💻 All of my projects are available at [egidiosalinaro.com](https://egidiosalinaro.com)
 
 - 💬 Ask me about **react, next, node**
 
