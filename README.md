@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egidiosalinaro&label=Profile%20views&color=0e75b6&style=flat" alt="egidiosalinaro" /> </p>
 
-- 🌱 I’m currently learning **solidity**
+- 🌱 I’m currently learning **solidity** and **C++**
 
 - 👨‍💻 All of my projects are available at [egidiosalinaro.com](https://egidiosalinaro.com)
 
